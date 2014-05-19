@@ -1,4 +1,4 @@
-![Sterling Publishing](https://github.com/Dumerz/sterlingBook/blob/master/img/sterling_book.png "Sterling Publishing")
+![Sterling Publishing](https://raw.githubusercontent.com/Dumerz/stylusHub/master/img/sterling_book.png "Sterling Publishing")
 ## Sterling Publishing DBMS
 
 ### Problem Sypnosis
