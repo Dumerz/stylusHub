@@ -20,9 +20,6 @@
 			     $sql_p = "SELECT * FROM `users` WHERE `password`='$password'";
 			     $q_p = mysql_query($sql_p)or die(header("location:error_occur.php"));
 			     $checker = mysql_num_rows($q_p);
-			     
-			     echo $checker;
-		         
 		         if($checker >= 1)
 		         	{
 		            	$_SESSION['user'] = $username;
